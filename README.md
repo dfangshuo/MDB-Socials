@@ -10,7 +10,7 @@ This REST API handles the database calls that [MDB Socials](https://github.com/d
 
 ## Implementation
 
-**Languages: **: Node.js, JavaScript     
+**Languages:** Node.js, JavaScript     
 **Frameworks:** Heroku
 
 The REST API is implemented using Node.js, with extensive help from *Krishnan*. Using the scaffold that he provided, I wrote the different routes and functions, before unit testing them using the Postman. Once working, the REST API was hosted on Heroku.
